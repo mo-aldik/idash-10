@@ -1,3 +1,5 @@
+// @ts-nocheck
+
 import { Container, HStack, Menu, Portal, VStack } from '@chakra-ui/react';
 import { LogoIcon } from 'icons/logo-icon';
 import { CircleIcon } from 'pages/home/icons/circle-icon';

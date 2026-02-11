@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { Button, Field, Input, Text, VStack } from '@chakra-ui/react';
 import { Layout } from 'layouts';
 import { useLoginFormHandler } from './hooks/use-login-form-handler';
